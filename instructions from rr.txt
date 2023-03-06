@@ -1,0 +1,5 @@
+1. cd to the local drive folder for the project.
+2. run the following command to manually build to github pages:
+
+ JEKYLL_ENV=production bundle exec jekyll b
+

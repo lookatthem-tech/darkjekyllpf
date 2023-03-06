@@ -3,3 +3,14 @@
 
  JEKYLL_ENV=production bundle exec jekyll b
 
+3. run the following command to build locally:
+
+$  bundle exec jekyll s
+
+4. View your local build at:
+
+http://127.0.0.1:4000/
+
+ 
+
+
